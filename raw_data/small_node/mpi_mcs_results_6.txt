@@ -1,0 +1,110 @@
+1250843
+Time spent by thread 2 was 1251130
+Time spent by thread 1 was 1250835
+Average time spent was 1251130 microseconds
+Average time spent was 1250835 microseconds
+Time spent by thread 3 was 1251159
+Time spent by thread 4 was 1250771
+Time spent by thread 5 was 1251136
+Average time spent was 1251159 microseconds
+Average time spent was 1250771 microseconds
+Average time spent was 1251136 microseconds
+699256
+Time spent by thread 2 was 699026
+Time spent by thread 1 was 699188
+Average time spent was 699026 microseconds
+Time spent by thread 3 was 699071
+Time spent by thread 5 was 699145
+Average time spent was 699188 microseconds
+Time spent by thread 4 was 699283
+Average time spent was 699071 microseconds
+Average time spent was 699145 microseconds
+Average time spent was 699283 microseconds
+1223005
+Time spent by thread 1 was 1223030
+Time spent by thread 4 was 1223062
+Time spent by thread 2 was 1223248
+Time spent by thread 3 was 1223314
+Average time spent was 1223030 microseconds
+Average time spent was 1223248 microseconds
+Average time spent was 1223314 microseconds
+Time spent by thread 5 was 1223044
+Average time spent was 1223062 microseconds
+Average time spent was 1223044 microseconds
+1307852
+Time spent by thread 2 was 1308025
+Time spent by thread 1 was 1307906
+Average time spent was 1308025 microseconds
+Time spent by thread 3 was 1307759
+Time spent by thread 4 was 1307982
+Average time spent was 1307906 microseconds
+Time spent by thread 5 was 1308181
+Average time spent was 1307759 microseconds
+Average time spent was 1307982 microseconds
+Average time spent was 1308181 microseconds
+606168
+Time spent by thread 1 was 606056
+Time spent by thread 2 was 605979
+Average time spent was 605979 microseconds
+Time spent by thread 5 was 606173
+Average time spent was 606056 microseconds
+Average time spent was 606173 microseconds
+Time spent by thread 3 was 606165
+Average time spent was 606165 microseconds
+Time spent by thread 4 was 606039
+Average time spent was 606039 microseconds
+1429149
+Time spent by thread 2 was 1429449
+Time spent by thread 1 was 1429252
+Average time spent was 1429449 microseconds
+Average time spent was 1429252 microseconds
+Time spent by thread 3 was 1429201
+Time spent by thread 5 was 1429270
+Time spent by thread 4 was 1429033
+Average time spent was 1429270 microseconds
+Average time spent was 1429201 microseconds
+Average time spent was 1429033 microseconds
+558662
+Time spent by thread 1 was 558574
+Time spent by thread 2 was 558063
+Time spent by thread 3 was 558528
+Average time spent was 558574 microseconds
+Time spent by thread 5 was 558595
+Average time spent was 558063 microseconds
+Time spent by thread 4 was 558400
+Average time spent was 558528 microseconds
+Average time spent was 558595 microseconds
+Average time spent was 558400 microseconds
+1452883
+Time spent by thread 1 was 1453017
+Time spent by thread 2 was 1453029
+Average time spent was 1453029 microseconds
+Time spent by thread 3 was 1453139
+Average time spent was 1453017 microseconds
+Time spent by thread 5 was 1453298
+Time spent by thread 4 was 1452966
+Average time spent was 1453139 microseconds
+Average time spent was 1452966 microseconds
+Average time spent was 1453298 microseconds
+1437723
+Time spent by thread 1 was 1437839
+Time spent by thread 2 was 1437986
+Average time spent was 1437839 microseconds
+Time spent by thread 3 was 1437757
+Average time spent was 1437986 microseconds
+Time spent by thread 5 was 1437700
+Average time spent was 1437757 microseconds
+Time spent by thread 4 was 1437860
+Average time spent was 1437700 microseconds
+Average time spent was 1437860 microseconds
+566691
+Time spent by thread 1 was 566966
+Time spent by thread 2 was 566791
+Average time spent was 566791 microseconds
+Time spent by thread 3 was 566857
+Average time spent was 566966 microseconds
+Time spent by thread 5 was 566974
+Time spent by thread 4 was 566923
+Average time spent was 566857 microseconds
+Average time spent was 566974 microseconds
+Average time spent was 566923 microseconds

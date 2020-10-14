@@ -1,0 +1,70 @@
+430120
+Time spent by thread 2 was 430084
+Average time spent was 430084 microseconds
+Time spent by thread 1 was 430069
+Average time spent was 430069 microseconds
+Time spent by thread 3 was 430106
+Average time spent was 430106 microseconds
+438157
+Time spent by thread 1 was 438159
+Time spent by thread 2 was 437931
+Average time spent was 438159 microseconds
+Average time spent was 437931 microseconds
+Time spent by thread 3 was 438170
+Average time spent was 438170 microseconds
+421485
+Time spent by thread 1 was 421444
+Time spent by thread 2 was 421193
+Average time spent was 421444 microseconds
+Time spent by thread 3 was 421575
+Average time spent was 421193 microseconds
+Average time spent was 421575 microseconds
+444494
+Time spent by thread 1 was 444469
+Time spent by thread 2 was 444222
+Average time spent was 444469 microseconds
+Time spent by thread 3 was 444442
+Average time spent was 444222 microseconds
+Average time spent was 444442 microseconds
+1554687
+Time spent by thread 1 was 1554745
+Average time spent was 1554745 microseconds
+Time spent by thread 2 was 1554890
+Time spent by thread 3 was 1554569
+Average time spent was 1554890 microseconds
+Average time spent was 1554569 microseconds
+435736
+Time spent by thread 2 was 435583
+Time spent by thread 1 was 435801
+Average time spent was 435583 microseconds
+Average time spent was 435801 microseconds
+Time spent by thread 3 was 435385
+Average time spent was 435385 microseconds
+1581651
+Time spent by thread 2 was 1582189
+Time spent by thread 1 was 1581744
+Average time spent was 1582189 microseconds
+Average time spent was 1581744 microseconds
+Time spent by thread 3 was 1581748
+Average time spent was 1581748 microseconds
+421127
+Time spent by thread 2 was 420804
+Time spent by thread 1 was 421160
+Time spent by thread 3 was 421048
+Average time spent was 420804 microseconds
+Average time spent was 421160 microseconds
+Average time spent was 421048 microseconds
+1592699
+Time spent by thread 1 was 1592716
+Time spent by thread 2 was 1592978
+Average time spent was 1592978 microseconds
+Average time spent was 1592716 microseconds
+Time spent by thread 3 was 1592945
+Average time spent was 1592945 microseconds
+398149
+Time spent by thread 1 was 398070
+Time spent by thread 2 was 397661
+Average time spent was 397661 microseconds
+Average time spent was 398070 microseconds
+Time spent by thread 3 was 398278
+Average time spent was 398278 microseconds

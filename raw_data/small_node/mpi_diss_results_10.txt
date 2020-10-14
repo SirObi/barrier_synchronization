@@ -1,0 +1,190 @@
+Time spent by thread 2 was 1428268
+Average time spent was 1428268 microseconds
+Time spent by thread 3 was 1428300
+Average time spent was 1428300 microseconds
+Time spent by thread 4 was 1428528
+Average time spent was 1428528 microseconds
+Time spent by thread 5 was 1428955
+Average time spent was 1428955 microseconds
+Time spent by thread 6 was 1429013
+Average time spent was 1429013 microseconds
+Time spent by thread 7 was 1429178
+Average time spent was 1429178 microseconds
+Time spent by thread 8 was 1429417
+Average time spent was 1429417 microseconds
+1429966
+Time spent by thread 9 was 1429381
+Average time spent was 1429381 microseconds
+Time spent by thread 1 was 1429781
+Average time spent was 1429781 microseconds
+Time spent by thread 2 was 2508136
+Average time spent was 2508136 microseconds
+Time spent by thread 3 was 2507976
+Time spent by thread 4 was 2507514
+Average time spent was 2507976 microseconds
+Average time spent was 2507514 microseconds
+Time spent by thread 5 was 2507771
+Average time spent was 2507771 microseconds
+Time spent by thread 6 was 2507408
+Average time spent was 2507408 microseconds
+Time spent by thread 7 was 2507177
+Average time spent was 2507177 microseconds
+Time spent by thread 8 was 2507187
+2506451
+Average time spent was 2507187 microseconds
+Time spent by thread 9 was 2507237
+Average time spent was 2507237 microseconds
+Time spent by thread 1 was 2506650
+Average time spent was 2506650 microseconds
+Time spent by thread 2 was 1433230
+Time spent by thread 3 was 1433387
+Average time spent was 1433230 microseconds
+Average time spent was 1433387 microseconds
+Time spent by thread 4 was 1433610
+Average time spent was 1433610 microseconds
+Time spent by thread 5 was 1433686
+Average time spent was 1433686 microseconds
+Time spent by thread 6 was 1433652
+Average time spent was 1433652 microseconds
+Time spent by thread 7 was 1434143
+Average time spent was 1434143 microseconds
+Time spent by thread 8 was 1434058
+Average time spent was 1434058 microseconds
+1434795
+Time spent by thread 9 was 1434134
+Average time spent was 1434134 microseconds
+Time spent by thread 1 was 1434601
+Average time spent was 1434601 microseconds
+Time spent by thread 2 was 2604702
+Average time spent was 2604702 microseconds
+Time spent by thread 3 was 2604481
+Average time spent was 2604481 microseconds
+Time spent by thread 4 was 2604597
+Average time spent was 2604597 microseconds
+Time spent by thread 5 was 2604590
+Average time spent was 2604590 microseconds
+Time spent by thread 6 was 2604233
+Time spent by thread 7 was 2604091
+Average time spent was 2604233 microseconds
+Average time spent was 2604091 microseconds
+2603235
+Time spent by thread 8 was 2604249
+Average time spent was 2604249 microseconds
+Time spent by thread 9 was 2604113
+Average time spent was 2604113 microseconds
+Time spent by thread 1 was 2603458
+Average time spent was 2603458 microseconds
+Time spent by thread 2 was 1421070
+Average time spent was 1421070 microseconds
+Time spent by thread 3 was 1421110
+Average time spent was 1421110 microseconds
+Time spent by thread 4 was 1420974
+Time spent by thread 5 was 1421496
+Average time spent was 1420974 microseconds
+Average time spent was 1421496 microseconds
+Time spent by thread 6 was 1421495
+Time spent by thread 7 was 1421941
+Average time spent was 1421495 microseconds
+Average time spent was 1421941 microseconds
+1422560
+Time spent by thread 8 was 1422014
+Time spent by thread 9 was 1421975
+Average time spent was 1422014 microseconds
+Time spent by thread 1 was 1422389
+Average time spent was 1421975 microseconds
+Average time spent was 1422389 microseconds
+Time spent by thread 2 was 2169909
+Average time spent was 2169909 microseconds
+Time spent by thread 3 was 2169716
+Time spent by thread 4 was 2169683
+Average time spent was 2169716 microseconds
+Average time spent was 2169683 microseconds
+Time spent by thread 5 was 2169668
+Average time spent was 2169668 microseconds
+Time spent by thread 6 was 2169276
+Average time spent was 2169276 microseconds
+Time spent by thread 7 was 2169017
+Average time spent was 2169017 microseconds
+Time spent by thread 8 was 2169130
+Average time spent was 2169130 microseconds
+2168181
+Time spent by thread 9 was 2168829
+Average time spent was 2168829 microseconds
+Time spent by thread 1 was 2168411
+Average time spent was 2168411 microseconds
+Time spent by thread 2 was 2209618
+Average time spent was 2209618 microseconds
+Time spent by thread 3 was 2209164
+Average time spent was 2209164 microseconds
+Time spent by thread 4 was 2209110
+Average time spent was 2209110 microseconds
+Time spent by thread 5 was 2209074
+Average time spent was 2209074 microseconds
+Time spent by thread 6 was 2208655
+Average time spent was 2208655 microseconds
+Time spent by thread 7 was 2208571
+Average time spent was 2208571 microseconds
+Time spent by thread 8 was 2208557
+2207830
+Average time spent was 2208557 microseconds
+Time spent by thread 9 was 2208522
+Average time spent was 2208522 microseconds
+Time spent by thread 1 was 2207427
+Average time spent was 2207427 microseconds
+Time spent by thread 2 was 2097575
+Average time spent was 2097575 microseconds
+Time spent by thread 3 was 2096553
+Average time spent was 2096553 microseconds
+Time spent by thread 4 was 2096071
+Average time spent was 2096071 microseconds
+Time spent by thread 5 was 2095873
+Average time spent was 2095873 microseconds
+Time spent by thread 6 was 2095585
+Average time spent was 2095585 microseconds
+Time spent by thread 7 was 2095784
+2094859
+Average time spent was 2095784 microseconds
+Time spent by thread 8 was 2095624
+Average time spent was 2095624 microseconds
+Time spent by thread 9 was 2095384
+Average time spent was 2095384 microseconds
+Time spent by thread 1 was 2094901
+Average time spent was 2094901 microseconds
+Time spent by thread 2 was 1600652
+Average time spent was 1600652 microseconds
+Time spent by thread 3 was 1601032
+Average time spent was 1601032 microseconds
+Time spent by thread 4 was 1600837
+Average time spent was 1600837 microseconds
+Time spent by thread 5 was 1600962
+Average time spent was 1600962 microseconds
+Time spent by thread 6 was 1601418
+Average time spent was 1601418 microseconds
+Time spent by thread 7 was 1601716
+Average time spent was 1601716 microseconds
+Time spent by thread 8 was 1601613
+Average time spent was 1601613 microseconds
+1602487
+Time spent by thread 9 was 1601780
+Average time spent was 1601780 microseconds
+Time spent by thread 1 was 1602138
+Average time spent was 1602138 microseconds
+Time spent by thread 2 was 2543489
+Average time spent was 2543489 microseconds
+Time spent by thread 3 was 2543275
+Average time spent was 2543275 microseconds
+Time spent by thread 4 was 2543080
+Average time spent was 2543080 microseconds
+Time spent by thread 5 was 2542816
+Average time spent was 2542816 microseconds
+Time spent by thread 6 was 2542990
+Average time spent was 2542990 microseconds
+Time spent by thread 7 was 2542646
+Average time spent was 2542646 microseconds
+Time spent by thread 8 was 2542560
+Average time spent was 2542560 microseconds
+2541902
+Time spent by thread 9 was 2542626
+Average time spent was 2542626 microseconds
+Time spent by thread 1 was 2542225
+Average time spent was 2542225 microseconds
