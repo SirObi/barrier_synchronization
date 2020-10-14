@@ -3,8 +3,8 @@
 #include <stdio.h>
 #include <string.h>
 #include <sys/time.h>
-#include "mpi_diss_barrier.h"
-#include "omp_mcs_barrier.h"
+#include "../MPI/mpi_diss_barrier.h"
+#include "../OpenMP/omp_mcs_barrier.h"
 
 int main(int argc, char *argv[]) {
 	if (argc < 3) {
