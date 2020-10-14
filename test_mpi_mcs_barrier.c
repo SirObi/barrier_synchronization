@@ -34,12 +34,8 @@ int main(int argc, char *argv[]) {
 	timespent_micro += abs(t1.tv_usec - t0.tv_usec);
 	timespent_sec += abs(t1.tv_sec - t0.tv_sec);
 
-	//printf("Thread %d t0: %ld\n", world_rank, t0.tv_usec);
-	//printf("Thread %d t1: %ld\n", world_rank, t1.tv_usec);
-	printf("Time spent by thread %d was %ld\n", world_rank, timespent_micro + timespent_sec * 1000000);
-
-	// ??? is this even kosher? I don't think it gives you an average across processes
-	printf("Average time spent was %ld microseconds\n", timespent_micro + timespent_sec * 1000000);
+	// debug: printf("Time spent by process %d was %ld\n", world_rank, timespent_micro + timespent_sec * 1000000);
+	printf("%ld\n", timespent_micro + timespent_sec * 1000000);
 
 	MPI_Finalize();
 }

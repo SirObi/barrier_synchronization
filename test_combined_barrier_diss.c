@@ -6,14 +6,11 @@
 #include "mpi_diss_barrier.h"
 #include "omp_mcs_barrier.h"
 
-
 int main(int argc, char *argv[]) {
 	if (argc < 3) {
 		printf("Expected argc is at least 3\n");
 		return 0;
 	}
-
-	//printf("Starting test\n");
 
 	int num_processes = atoi(argv[1]);
 	int num_threads = atoi(argv[2]);
@@ -21,9 +18,6 @@ int main(int argc, char *argv[]) {
 
     long int timespent_micro = 0;
     long int timespent_sec = 0;
-
-
-    long int timespent = 0;
 
     MPI_Init(&argc, &argv);
     mpi_diss_init(num_processes);
@@ -34,34 +28,28 @@ int main(int argc, char *argv[]) {
 	struct timeval t0, t1;
 	gettimeofday(&t0, NULL);
 
-//	for (int i = 0; i < num_iterations; i++) {
-		omp_mcs_init(num_threads);
+	omp_mcs_init(num_threads);
+
 #pragma omp parallel num_threads(num_threads)
-		{
-			//run_omp(num_threads, world_rank);
-
-			int counter = 0;
-			// do some work
-			for (int i = 0; i < num_iterations; i ++) {
-				counter++;
-				printf("Running thread %d on proc %d\n", omp_get_thread_num(), world_rank);
-				omp_mcs_barrier();
-			}
-
+	{
+		int counter = 0;
+		// do some work
+		for (int i = 0; i < num_iterations; i ++) {
+			counter++;
+			// debug: printf("Running thread %d on proc %d\n", omp_get_thread_num(), world_rank);
+			omp_mcs_barrier();
 		}
-		omp_mcs_finalize();
-		mpi_diss_barrier();
-//	}
+
+	}
+	omp_mcs_finalize();
+	mpi_diss_barrier();
 
 	gettimeofday(&t1, NULL);
 	timespent_micro += abs(t1.tv_usec - t0.tv_usec);
 	timespent_sec += abs(t1.tv_sec - t0.tv_sec);
 
-	//printf("Thread %d t0: %ld\n", world_rank, t0.tv_usec);
-
-	// ??? is this even kosher? I don't think it gives you an average across processes
-	printf("Time spent by process %d was %ld\n", world_rank, timespent_micro + timespent_sec * 1000000);
-
+	// debug: printf("Time spent by process %d was %ld\n", world_rank, timespent_micro + timespent_sec * 1000000);
+	printf("%ld\n", timespent_micro + timespent_sec * 1000000);
 
 	MPI_Finalize();
 }

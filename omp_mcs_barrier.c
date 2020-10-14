@@ -5,11 +5,6 @@
 #include <math.h>
 #include <omp.h>
 
-
-// For future work with C++, use #define to define array sizes
-// You can do it with consts in C (since it's more flexible), but just get in the habit
-
-
 typedef struct {
 	bool parentsense;
 	bool *downstreampointer;
@@ -115,9 +110,3 @@ void omp_mcs_barrier(){
 void omp_mcs_finalize(){
 	free(nodes);
 }
-
-
-// it's key to understand the algorithm first, and be able to explain it with words
-// at that stage, implementing it becomes a pretty trivial task
-// sometimes the lectures might not provide the most intuitive explanations, so it's worth looking for better ones
-// My big mistake in this one (cost 2 hours) was not figuring out that we need a gloal AND a local sense variable

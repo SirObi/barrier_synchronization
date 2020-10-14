@@ -1,8 +1,6 @@
 #include <mpi.h>
 #include <stdio.h>
 
-//int counter = 0;
-
 int main(int argc, char** argv) {
     // Initialize the MPI environment
     MPI_Init(NULL, NULL);
@@ -34,8 +32,6 @@ int main(int argc, char** argv) {
         printf("Hello world from processor %s with counter %d, rank %d out of %d processors\n",
                processor_name, data, world_rank, world_size);
     }
-
-
 
     // Finalize the MPI environment.
     MPI_Finalize();

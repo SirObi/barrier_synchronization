@@ -3,7 +3,6 @@
 #include <string.h>
 #include <sys/time.h>
 
-
 int main(int argc, char *argv[]) {
 	if (argc < 3) {
 		printf("Expected argc is at least 3\n");
@@ -40,6 +39,7 @@ int main(int argc, char *argv[]) {
 		time_sum_sec += abs(timespent_sec[omp_get_thread_num()]);
 	}
 
-	printf("Number of threads %d\n", num_threads);
-	printf("Average time spent was %ld microseconds\n", (time_sum_micro + time_sum_sec * 1000000) / (long int) num_threads);
+	// debug: printf("Number of threads %d\n", num_threads);
+	// debug: printf("Average time spent was %ld microseconds\n", (time_sum_micro + time_sum_sec * 1000000) / (long int) num_threads);
+	printf("%d\n", time_sum_micro + time_sum_sec * 1000000);
 }
