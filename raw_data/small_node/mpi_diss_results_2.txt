@@ -1,30 +1,10 @@
 52
-Time spent by thread 1 was 48
-Average time spent was 48 microseconds
 48
-Time spent by thread 1 was 45
-Average time spent was 45 microseconds
 49
-Time spent by thread 1 was 46
-Average time spent was 46 microseconds
 54
-Time spent by thread 1 was 44
-Average time spent was 44 microseconds
 48
-Time spent by thread 1 was 46
-Average time spent was 46 microseconds
 49
-Time spent by thread 1 was 45
-Average time spent was 45 microseconds
 48
-Time spent by thread 1 was 50
-Average time spent was 50 microseconds
 52
-Time spent by thread 1 was 45
-Average time spent was 45 microseconds
 47
-Time spent by thread 1 was 46
-Average time spent was 46 microseconds
 51
-Time spent by thread 1 was 44
-Average time spent was 44 microseconds

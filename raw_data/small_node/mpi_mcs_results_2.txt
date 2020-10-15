@@ -1,30 +1,10 @@
 256744
-Time spent by thread 1 was 256618
-Average time spent was 256618 microseconds
 267874
-Time spent by thread 1 was 267872
-Average time spent was 267872 microseconds
 1729745
-Time spent by thread 1 was 1729773
-Average time spent was 1729773 microseconds
 266597
-Time spent by thread 1 was 266509
-Average time spent was 266509 microseconds
 250545
-Time spent by thread 1 was 250531
-Average time spent was 250531 microseconds
 259406
-Time spent by thread 1 was 259262
-Average time spent was 259262 microseconds
 1741720
-Time spent by thread 1 was 1741647
-Average time spent was 1741647 microseconds
 255611
-Time spent by thread 1 was 255526
-Average time spent was 255526 microseconds
 260430
-Time spent by thread 1 was 260436
-Average time spent was 260436 microseconds
 1740269
-Time spent by thread 1 was 1740365
-Average time spent was 1740365 microseconds
